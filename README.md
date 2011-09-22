@@ -69,7 +69,7 @@ The **light** has the following additional limitations:
 
 - `matrix(...)` cannot be used,
 - transformations set through other plugins, raw DOM manipulation or stylesheets are ignored: animating or accessing current style would fail,
-- incompatible with [jquery.transition.js](https://github.com/lrbabe/jquery.transition.js).
+- incompatible with [jquery.transition.js](https://github.com/louisremi/jquery.transition.js).
 
 Light or not light?
 -------------------
